@@ -1,7 +1,6 @@
 ## Intellij
 /.idea/
 
-
 ## Java
 
 *.class
@@ -103,7 +102,7 @@ nb-configuration.xml
 ## Gradle
 
 /local.properties
-.gradle/
+.grad:le/
 gradle-app.setting
 /build/
 /android/build/
